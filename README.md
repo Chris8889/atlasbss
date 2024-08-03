@@ -24,3 +24,19 @@ Atlas is a new Bee Swarm Simulator script currently being developed with safety 
 - Improved performance when auto kill mobs is enabled
 - Fixed a bug that caused auto kill mobs to not work
 - Dropdowns now show the title, not just the value
+
+### Version 0.5 Beta Changelogs:
+- Cooldowns of toys (memory matches, etc) are now saved, no need to recheck every time the script is executed
+- Added auto dispensers (except coconut, royal jelly and glue)
+- Added the option to use the red cannon if pathfinding
+
+### Version 0.6 Beta Changelogs:
+- Added auto beesmas (polar bear feast, gingerbread house, samovar, stockings)
+- Added half baked auto quest (only does pollen and field quests)
+- Added pathfinding for coconut field and pepper patch
+- Auto convert now also converts balloon
+
+- Disabled pathfinding when farming tokens to remove the delay from calculating path, character now walks directly to token
+- Fixed auto sprinker and memory match by finding the correct position of gui items
+- Fixed memory match clicking on already matched tiles
+- Fixed not being able to pathfind into field
