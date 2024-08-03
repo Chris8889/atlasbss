@@ -11,7 +11,7 @@ for i, v in pairs(game:GetService("CoreGui"):GetDescendants()) do
 		end
 	end
 end
-		
+
 do -- imgui
 	local imgui = Instance.new("ScreenGui")
 	local Prefabs = Instance.new("Frame")
