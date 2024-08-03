@@ -1,7 +1,7 @@
 # Atlas BSS
 Atlas is a new Bee Swarm Simulator script currently being developed with safety as its focus. Atlas currently supports both tween and pathfinding.
 
-[![Atlas Showcase](https://img.youtube.com/vi/vIGt_-XNU0A/0.jpg)](https://www.youtube.com/watch?v=vIGt_-XNU0A)
+[Atlas BSS](https://extron.netlify.app/atlas.png)
 
 ### Version 0.2 Beta Changelogs:
 - Fixed auto sprinklers still being placed even after they are placed
